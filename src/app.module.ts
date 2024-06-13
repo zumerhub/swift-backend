@@ -55,6 +55,7 @@ import { AppService } from './app.service';
     }),
     UsersModule,
   ],
+  // is it working properly
   controllers: [AppController],
   providers: [AppService],
 
